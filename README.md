@@ -8,14 +8,20 @@ This repository contains my solution for the tech interview challenge. The solut
 - Comprehensive test cases to validate the solution.
 - Provide 2 solutions based on how to solve and the simplest way.
 
-## Usage
-To run the solution, execute the following command:
+## Installation
 
-`node countCode.js`
+To install the solution, you can clone the repository from the following link:
+
+`git clone https://github.com/alfanzain/goakal-test1-solution.git`
+
+## Usage
+To run the solution with test cases, execute the following command:
+
+`node testCountCode.js`
 
 or
 
-`node countCodeRegex.js`
+`node testCountCodeRegex.js`
 
 ##
 
