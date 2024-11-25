@@ -18,7 +18,7 @@ function countCode(str) {
         }
     }
 
-    console.log(str + ": " + count);
+    console.log(count);
 
     return count;
 }
